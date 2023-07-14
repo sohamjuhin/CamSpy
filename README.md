@@ -1,4 +1,4 @@
-# CamSpy
+# CamSpy_RemortCam
 webcam key logger
 This code will first take a screenshot and a picture from the webcam. Then, it will create a new thread to run the remote access tool. The remote access tool can be any program that allows you to control the computer remotely. For example, you could use a program like TeamViewer or AnyDesk.
 
